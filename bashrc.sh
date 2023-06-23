@@ -38,8 +38,6 @@ OSNames=(
 
 USER=$(logname)
 
-
-
 if [ ! -f /home/$USER/.bashrc ]; then
     echo "[Info] Creating .bashrc file"
     touch /home/$USER/.bashrc
