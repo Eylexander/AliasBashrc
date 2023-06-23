@@ -23,10 +23,10 @@
 ############################################################################
 
 URLs=(
-    "https://gist.githubusercontent.com/RobSeder/c82358b06cc2b98749de/raw/174eb25ce3791ea5a1c499b481ad8bb8d9f74c48/.bashrc" # Raspbian
-    "https://gist.githubusercontent.com/marioBonales/1637696/raw/93a33aa5f1893f46773483250214f8b8b496a270/.bashrc" # Ubuntu
-    "https://raw.githubusercontent.com/endeavouros-team/EndeavourOS-ISO/main/airootfs/root/endeavouros-skel-liveuser/src/etc/skel/.bashrc" # EndeavourOS
-    "https://gist.githubusercontent.com/techn0punk/4882cf2b607b3aeb7f863e6040ac9ac2/raw/61d9487f82810279b6b7f2231b695b42c3a3d2ed/kali-bashrc" # Kali
+    "https://raw.githubusercontent.com/Eylexander/AliasBashrc/main/initial/raspbian/.bashrc" # Raspbian
+    "https://raw.githubusercontent.com/Eylexander/AliasBashrc/main/initial/ubuntu/.bashrc" # Ubuntu
+    "https://raw.githubusercontent.com/Eylexander/AliasBashrc/main/initial/endeavouros/.bashrc" # EndeavourOS
+    "https://raw.githubusercontent.com/Eylexander/AliasBashrc/main/initial/kali/.bashrc" # Kali
 )
 
 OSNames=(
